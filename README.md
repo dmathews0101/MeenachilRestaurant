@@ -12,7 +12,10 @@ Meenachil Restaurant is an responsive, dynamic and mobile friendly website for a
 Github Link : https://github.com/dmathews0101/MeenachilRestaurant 
 
 
-## Demo Link
+## Demo Link 1
+Project Link : https://dmathews0101.github.io/MeenachilRestaurant/ 
+
+## Demo Link 2
 Project Link : http://meenachilrestaurant.c1.biz/
 
 ---
